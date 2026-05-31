@@ -10,7 +10,7 @@
 
 CS student focused on fullstack web development. I enjoy turning ideas into functional products — clean code, thoughtful architecture, and continuous improvement.
 
-- 🔭 Currently improving **Blindtest** — planning a mobile version
+- 🔭 Currently finishing **A.B.E.S** — bidirectional sign language translation system
 - 🌱 Always learning, always building
 - 💬 Ask me about **React, Node.js, Flask, Python**
 - 📫 Reach me at **aghilesaitbelkacem@gmail.com**
@@ -22,6 +22,7 @@ CS student focused on fullstack web development. I enjoy turning ideas into func
 | Project | Description | Stack | Link |
 |--------|-------------|-------|------|
 | 🎵 **Blindtest** | Web app music blind test game — planning mobile version | `Python` `Flask` `React` | [View Repo](https://github.com/aghilesaitbelkacem-lab/Blindtest) |
+| 🤟 **A.B.E.S** | Bidirectional web app translating natural language ↔ sign language | `React` `Python` `Flask` `Oracle 21c` `Redis` `Java Swing` `ResNet50` `LSTM` `MediaPipe` `TensorFlow` | 🔒 Repo coming soon |
 
 ---
 
