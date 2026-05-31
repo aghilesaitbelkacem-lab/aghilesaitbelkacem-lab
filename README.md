@@ -19,12 +19,35 @@ CS student focused on fullstack web development. I enjoy turning ideas into func
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack | Link |
-|--------|-------------|-------|------|
-| 🎵 **Blindtest** | Web app music blind test game — planning mobile version | `Python` `Flask` `React` | [View Repo](https://github.com/aghilesaitbelkacem-lab/Blindtest) |
-| 🤟 **A.B.E.S** | Bidirectional web app translating natural language ↔ sign language | `React` `Python` `Flask` `Oracle 21c` `Redis` `Java Swing` `ResNet50` `LSTM` `MediaPipe` `TensorFlow` | 🔒 Repo coming soon |
-
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎵 Blindtest</h3>
+      <p>A web-based music blind test game where players guess songs from short audio clips. Mobile version in progress.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+        <img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
+      </p>
+      <a href="https://github.com/aghilesaitbelkacem-lab/Blindtest">
+        <img src="https://img.shields.io/badge/View Repo-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤟 A.B.E.S</h3>
+      <p>Bidirectional translation system between natural language and sign language, powered by AI and computer vision.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
+        <img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white"/>
+      </p>
+      <img src="https://img.shields.io/badge/Repo-Coming%20Soon-555?style=flat-square&logo=github&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Socials
 
