@@ -10,10 +10,8 @@
 
 CS student focused on fullstack web development. I enjoy turning ideas into functional products — clean code, thoughtful architecture, and continuous improvement.
 
-- 🔭 Currently finishing **A.B.E.S** — bidirectional sign language translation system
-- 🌱 Always learning, always building
-- 💬 Ask me about **React, Node.js, Flask, Python**
-- 📫 Reach me at **aghilesaitbelkacem@gmail.com**
+-  Always learning, always building
+-  Reach me at **aghilesaitbelkacem@gmail.com**
 
 ---
 
